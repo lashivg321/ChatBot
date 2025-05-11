@@ -9,7 +9,7 @@ The chatbot is developed using a combination of natural language processing tech
 
 ![Screenshot (87)](https://github.com/roshancharlie/College-Chatbot-Using-ML-and-NLP/assets/72337914/51ddca0e-b7f2-44a7-97a2-f4a1882d2ef3)
 
-## Motivation
+## Motivation 
 The motivation behind this project was to create a simple chatbot using my newly acquired knowledge of Natural Language Processing (NLP) and Python programming. As one of my first projects in this field, I wanted to put my skills to the test and see what I could create.
 
 [I followed a guide referenced in the project](https://thecleverprogrammer.com/2023/03/27/end-to-end-chatbot-using-python/) to learn the steps involved in creating an end-to-end chatbot. This included collecting data, choosing programming languages and NLP tools, training the chatbot, and testing and refining it before making it available to users.
